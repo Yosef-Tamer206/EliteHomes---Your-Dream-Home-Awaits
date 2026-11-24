@@ -4,8 +4,6 @@ A real estate landing site for a property agency: services, property types, feat
 
 **Live demo:** https://yosef-tamer206.github.io/EliteHomes---Your-Dream-Home-Awaits/
 
-![EliteHomes---Your-Dream-Home-Awaits screenshot](docs/screenshot.png)
-
 ## Features
 
 - Hero section with property search banner
